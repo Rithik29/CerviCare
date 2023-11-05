@@ -33,6 +33,7 @@
     FaShop,
     FaSquareSteam,
     FaUpload,
+    FaUserAstronaut,
     FaUserDoctor,
     FaVideo,
   } from 'react-icons/fa6'
@@ -44,6 +45,10 @@
   import StreamingRevenue from '../pages/dashboard/StreamingRevenue'
   import HistoryPage from '../pages/dashboard/HistoryPage'
   import Home from '../pages/dashboard/home'
+import Query from '../pages/dashboard/Query'
+
+  
+
   const icon = {
     className: 'w-5 h-5 text-inherit',
   }
@@ -65,6 +70,12 @@
           name: 'Consultation Requests',
           path: '/consultation',
           element: <UploadContent />,
+        },
+        {
+          icon: <FaUserAstronaut {...icon} />,
+          name: 'Query Section',
+          path: '/QuerySection',
+          element: <Query />,
         },
   
         {
