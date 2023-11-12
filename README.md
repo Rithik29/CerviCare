@@ -53,7 +53,7 @@ We welcome contributions to the CerviCare project. If you would like to contribu
 
 ## Issues and Bug Reports
 
-If you encounter any issues or would like to report a bug, please use the [GitHub Issue Tracker](https://github.com/your-username/CerviCare/issues) to submit a detailed bug report.
+If you encounter any issues or would like to report a bug, please use the [GitHub Issue Tracker](https://github.com/Rithik29/CerviCare/issues) to submit a detailed bug report.
 
 ## License
 
